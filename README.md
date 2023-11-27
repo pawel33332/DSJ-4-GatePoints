@@ -1,4 +1,6 @@
 # DSJ-4-GatePoints
+Uwaga! Aplikację uruchamiamy, gdy gra DSJ 4 jest już włączona.
+Zmiana belki musi nastąpić przed startem kolejnego zawodnika.  
 GatePoints to nieoficjalny dodatek do gry Deluxe Ski Jump 4,
 który wprowadza nową funkcję związana z punktacją zawodów. 
 Ten dodatek umożliwia obniżenie belki w Pucharze Świata w DSJ 4 ze wzgledu panujących warunków
