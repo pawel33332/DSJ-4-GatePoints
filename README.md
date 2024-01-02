@@ -14,3 +14,7 @@ Wydano następujące wersje:
 -możliwość obniżenia lub powrócenia do standardowej belki za pomocą przycisków PageDown/PageUp  
 -dynamiczna korekta noty łącznej za obniżoną belkę  
 -wyświetlanie na ekranie informacji na temat przyznanych punktów  
+# GatePoints 1.2 
+-dodano możliwość obniżenia belek do 3 stopni  
+-naprawiono kilka błedów wyłączających aplikację  
+-dodano możliwość dobrowolnej darowizny
